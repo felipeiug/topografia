@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1065834373156",
+    "firebase_url": "https://topografia-123-default-rtdb.firebaseio.com",
+    "project_id": "topografia-123",
+    "storage_bucket": "topografia-123.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065834373156:android:990a7f5eca2b87c4a178b1",
+        "android_client_info": {
+          "package_name": "com.felipeiug.topografia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065834373156-7rml8fbvc1qrmlil04op1ht71koqcqtn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg9wKJV-bqF0Iu2QDMixJ4ojuoA0MIh5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065834373156-7rml8fbvc1qrmlil04op1ht71koqcqtn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
